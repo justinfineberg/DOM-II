@@ -100,6 +100,7 @@ links.forEach((element)=>{
 
 
 //Practice with Event Propagation
+
 window.onclick = function(){
     console.log('window fired')
 }
